@@ -1,0 +1,108 @@
+# Core CrewAI and Multi-Agent Framework
+crewai==0.28.8
+crewai-tools==0.1.6
+
+# Language Models and AI
+openai==1.12.0
+langchain==0.1.10
+langchain-openai==0.0.8
+langchain-community==0.0.25
+
+# Web Scraping and Search
+requests==2.31.0
+beautifulsoup4==4.12.3
+selenium==4.18.1
+scrapy==2.11.1
+serper-python==0.1.2
+
+# Data Processing and Analysis
+pandas==2.2.1
+numpy==1.26.4
+scipy==1.12.0
+
+# Data Visualization
+matplotlib==3.8.3
+seaborn==0.13.2
+plotly==5.19.0
+bokeh==3.3.4
+
+# Text Processing and NLP
+nltk==3.8.1
+spacy==3.7.4
+textblob==0.18.0
+wordcloud==1.9.3
+
+# Machine Learning (for trend analysis)
+scikit-learn==1.4.1.post1
+xgboost==2.0.3
+
+# Database and Storage
+sqlite3-python==0.1.0
+pymongo==4.6.2
+redis==5.0.2
+
+# Configuration and Environment
+python-dotenv==1.0.1
+pydantic==2.6.3
+pyyaml==6.0.1
+
+# HTTP and API Clients
+httpx==0.27.0
+aiohttp==3.9.3
+urllib3==2.2.1
+
+# File Processing
+openpyxl==3.1.2
+xlsxwriter==3.2.0
+pypdf2==3.0.1
+
+# Async and Concurrent Processing
+asyncio==3.4.3
+aiofiles==23.2.1
+
+# Data Validation
+cerberus==1.3.5
+marshmallow==3.21.1
+
+# Logging and Monitoring
+loguru==0.7.2
+rich==13.7.1
+
+# Testing (optional)
+pytest==8.1.1
+pytest-asyncio==0.23.5
+
+# Progress Bars and CLI
+tqdm==4.66.2
+click==8.1.7
+typer==0.9.0
+
+# Date and Time Handling
+python-dateutil==2.9.0
+arrow==1.3.0
+
+# Image Processing (for generating charts)
+pillow==10.2.0
+
+# JSON and Data Serialization
+orjson==3.9.15
+jsonschema==4.21.1
+
+# Caching
+diskcache==5.6.3
+
+# Browser Automation (for advanced scraping)
+playwright==1.42.0
+
+# API Rate Limiting
+ratelimit==2.2.1
+
+# Web Framework (for optional dashboard)
+fastapi==0.109.2
+uvicorn==0.27.1
+streamlit==1.32.0
+
+# Additional Utilities
+regex==2023.12.25
+fake-useragent==1.5.1
+python-slugify==8.0.4
